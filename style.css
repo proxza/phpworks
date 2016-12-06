@@ -1,0 +1,35 @@
+body {
+    font-family: Tahoma;
+    font-size: 12px;
+    display: block;
+    margin: 0 auto;
+}
+
+header {
+    border: 1px solid;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+table {
+    border: 1px solid;
+    margin: 0 auto;
+}
+
+nav {
+    border: 1px solid;
+    display: block;
+    margin: 5px 25px;
+    text-align: center;
+}
+
+content {
+    border: 1px solid;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+
+
